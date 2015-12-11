@@ -13,7 +13,7 @@ mit der Zeit zunehmende Schwierigkeit (Anzahl Fahrzeuge, mittlere Geschwindigkei
 
 Den Quelltext können Sie mit git abrufen oder [hier herunteladen](https://github.com/tuiSSE/SWTSeminarBeispiel/archive/master.zip).
 
-* das Projekt wurde in eclipse vorbereitet und kann in diesem geöffnet, ausgeführt und weiterentwickelt werden. 
+Das Projekt wurde in eclipse vorbereitet und kann in diesem geöffnet, ausgeführt und weiterentwickelt werden: 
 [Eclipse IDE for Java download](http://www.eclipse.org/downloads)
 
 Bei Fragen oder Problemen bitte erst google und dann den Seminarleiter kontaktieren. Verbesserungen gern als Pull Request.
