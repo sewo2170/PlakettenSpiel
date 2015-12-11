@@ -1,0 +1,21 @@
+
+# Softwaretechnik WS2015/16
+
+Ein Startpunkt für die Implementierung des im Seminar besprochenen Umweltplaketten-Spiels.
+Vorgegeben ist die grafische Zeichenumgebung und eine minimale `Auto` Klasse.
+Über einen Button kann ein Auto erschaffen werden, welches dann durchs Bild fährt.
+
+Ziel ist das Umweltplaketten-Spiel so wie im Seminar besprochen.
+Es sollte mindestens einen Punktestand (korrekte Plaketten), ein "GameOver" nach x falschen Plaketten und eine
+mit der Zeit zunehmende Schwierigkeit (Anzahl Fahrzeuge, mittlere Geschwindigkeit,...) geben.
+
+##  Einrichtung der Entwicklungsumgebung
+
+Den Quelltext können Sie mit git abrufen oder [hier herunteladen](https://github.com/tuiSSE/SWTSeminarBeispiel/archive/master.zip).
+
+* das Projekt wurde in eclipse vorbereitet und kann in diesem geöffnet, ausgeführt und weiterentwickelt werden. 
+[Eclipse IDE for Java download](http://www.eclipse.org/downloads)
+
+Bei Fragen oder Problemen bitte erst google und dann den Seminarleiter kontaktieren. Verbesserungen gern als Pull Request.
+
+Viel Spaß!
