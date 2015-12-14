@@ -11,10 +11,10 @@ mit der Zeit zunehmende Schwierigkeit (Anzahl Fahrzeuge, mittlere Geschwindigkei
 
 ##  Einrichtung der Entwicklungsumgebung
 
-Den Quelltext können Sie mit git abrufen oder [hier herunteladen](https://github.com/tuiSSE/SWTSeminarBeispiel/archive/master.zip).
-
 Das Projekt wurde in eclipse vorbereitet und kann in diesem geöffnet, ausgeführt und weiterentwickelt werden: 
 [Eclipse IDE for Java download](http://www.eclipse.org/downloads)
+
+Den Quelltext können Sie mit git abrufen oder [hier herunteladen](https://github.com/tuiSSE/SWTSeminarBeispiel/archive/master.zip). Das heruntergeladene Projekt kann in eclipse über "File -> Import -> Existing Projects into Workspace" importiert und anschließend über "Run -> Run" ausgeführt werden.
 
 Bei Fragen oder Problemen bitte erst google und dann den Seminarleiter kontaktieren. Verbesserungen gern als Pull Request.
 
