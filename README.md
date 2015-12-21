@@ -5,7 +5,7 @@ Ein Startpunkt für die Implementierung des im Seminar besprochenen Umweltplaket
 Vorgegeben ist die grafische Zeichenumgebung und eine minimale `Auto` Klasse.
 Über einen Button kann ein Auto erschaffen werden, welches dann durchs Bild fährt.
 
-Ziel ist das Umweltplaketten-Spiel so wie im Seminar besprochen.
+Ziel ist das Umweltplaketten-Spiel so wie im Seminar besprochen zu implementieren.
 Es sollte mindestens einen Punktestand (korrekte Plaketten), ein "GameOver" nach x falschen Plaketten und eine
 mit der Zeit zunehmende Schwierigkeit (Anzahl Fahrzeuge, mittlere Geschwindigkeit,...) geben.
 
