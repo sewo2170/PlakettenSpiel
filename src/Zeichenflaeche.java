@@ -1,16 +1,16 @@
-import java.awt.Graphics;
+﻿import java.awt.Graphics;
 import java.awt.Image;
-import java.util.Vector;
+import java.util.ArrayList;
+import java.util.List;
+
 import javax.swing.JPanel;
 
 public class Zeichenflaeche extends JPanel {
 	private static final long serialVersionUID = 1L;
 
-	private Vector<Auto> elemente = new Vector<Auto>();
-
+	private List<Auto> elemente = new ArrayList<Auto>();
 	private Graphics bufferImageGraphics;
 	private Image bufferImage;
-
 	private int breite;
 	private int hoehe;
 

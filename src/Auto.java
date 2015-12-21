@@ -1,4 +1,4 @@
-import java.awt.Color;
+﻿import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Image;
@@ -14,7 +14,7 @@ public class Auto {
 	private int posY;
 	private int geschwindigkeit;
 	private Image img = null;
-
+	
 	public Auto(String name, int posY, int geschw) {
 		this.name = name;
 		this.posX = -200;
@@ -37,21 +37,22 @@ public class Auto {
 	public int getPosX() {
 		return this.posX;
 	}
-
+	
 	public int getPosY() {
 		return this.posY;
 	}
-
+	
 	public int getGeschwindigkeit() {
 		return this.geschwindigkeit;
 	};
-
+	
 	public void updatePosition(int framerate) {
-		int posXAenderung = (int) (1.0 / framerate * (400.0 * this.geschwindigkeit / 130.0)); // 130km/h --> 400px/s
+		// Umrechnung von Geschwindigkeit in Bildschirm-Bewegung: 130km/h --> 400px/s
+		int posXAenderung = (int) (1.0 / framerate * (400.0 * this.geschwindigkeit / 130.0));
 		this.posX = this.posX + posXAenderung;
 		System.out.println("Auto " + this.name + " bei (" + this.posX + "," + this.posY + ")");
 	}
-
+	
 	public void zeichne(Graphics g) {
 		g.drawImage(img, this.posX, this.posY, null);
 		g.setColor(this.farbe);
