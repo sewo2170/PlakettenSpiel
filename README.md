@@ -19,3 +19,12 @@ Den Quelltext können Sie mit git abrufen oder [hier herunteladen](https://githu
 Bei Fragen oder Problemen bitte erst google und dann den Seminarleiter kontaktieren. Verbesserungen gern als Pull Request.
 
 Viel Spaß!
+
+
+##  Änderungen
+
+| Datum  | Änderung |
+| ------------- | ------------- |
+| 2015-12-11 | Erste Version|
+| 2015-12-14 | Abhängigkeiten und Grafiken integriert |
+| 2015-12-21 | MouseEvent zur Hilfe bereits beispielhaft implementiert, Quelltext aufgeräumt |
