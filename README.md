@@ -1,5 +1,4 @@
-
-# Softwaretechnik WS2015/16
+# Softwaretechnik Seminar
 
 Ein Startpunkt für die Implementierung des im Seminar besprochenen Umweltplaketten-Spiels.
 Vorgegeben ist die grafische Zeichenumgebung und eine minimale `Auto` Klasse.
@@ -9,14 +8,21 @@ Ziel ist das Umweltplaketten-Spiel so wie im Seminar besprochen zu implementiere
 Es sollte mindestens einen Punktestand (korrekte Plaketten), ein "GameOver" nach x falschen Plaketten und eine
 mit der Zeit zunehmende Schwierigkeit (Anzahl Fahrzeuge, mittlere Geschwindigkeit,...) geben.
 
-Es werden nur eigenständig erstellte Lösungen bewertet. Eine gute Lösung setzt die objektorientierten Entwurfsideen aus dem Seminar um und setzt diese bei weiteren Aspekten fort. Der Quelltext sollte [ausreichend dokumentiert](https://de.wikipedia.org/wiki/Javadoc) sein. Eine Versionshistorie in Form von [git Commits](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) wird ebenso positiv bewertet. Die Lösung ist inklusive eines Klassendiagramms (kann mit VisualParadigm [automatisch generiert](http://www.visual-paradigm.com/support/documents/vpuserguide/276/381/7530_generateorup.html) werden) per Mail beim Seminarleiter einzureichen. Bitte laden Sie Ihre Lösung nicht bei github hoch. Es können bis zu drei Punkte verdient werden, die Lösung kann bis einen Tag vor der Klausur eingereicht werden.
+Es werden nur eigenständig erstellte Lösungen bewertet.
+Eine gute Lösung setzt die objektorientierten Entwurfsideen aus dem Seminar um und setzt diese bei weiteren Aspekten fort.
+Der Quelltext sollte [ausreichend dokumentiert](https://de.wikipedia.org/wiki/Javadoc) sein.
+Eine Versionshistorie in Form von [git Commits](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) wird ebenso bewertet.
+Die Lösung ist inklusive eines Klassendiagramms (kann mit VisualParadigm [automatisch generiert](http://www.visual-paradigm.com/support/documents/vpuserguide/276/381/7530_generateorup.html) werden) als GitLab Repository einzureichen.
+Achten Sie darauf, dass **ausschließlich** Sie und der Betreuer Leserechte auf Ihr Repository besitzen!
+Es können bis zu drei Punkte verdient werden, die Lösung kann bis zum Beginn der Prüfungszeit eingereicht werden.
 
 ##  Einrichtung der Entwicklungsumgebung
 
 Das Projekt wurde in eclipse vorbereitet und kann in diesem geöffnet, ausgeführt und weiterentwickelt werden: 
 [Eclipse IDE for Java download](http://www.eclipse.org/downloads)
 
-Den Quelltext können Sie mit git abrufen oder [hier herunteladen](https://github.com/tuiSSE/SWTSeminarBeispiel/archive/master.zip). Das heruntergeladene Projekt kann in eclipse über "File -> Import -> Existing Projects into Workspace" importiert und anschließend über "Run -> Run" ausgeführt werden.
+Den Quelltext können Sie mit git abrufen.
+Das heruntergeladene Projekt kann in eclipse über "File -> Import -> Existing Projects into Workspace" importiert und anschließend über "Run -> Run" ausgeführt werden.
 
 Bei Fragen oder Problemen bitte erst google und dann den Seminarleiter kontaktieren. Verbesserungen gern als Pull Request.
 
